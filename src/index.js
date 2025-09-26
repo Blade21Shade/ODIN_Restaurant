@@ -1,7 +1,7 @@
 import "./styles.css";
-import {createContent as createHome} from "./home.js"
-import {createContent as createMenu} from "./menu.js" ;
-import {createContent as createAbout} from "./about.js"
+import {createContent as createHome} from "./home.js";
+import {createContent as createMenu} from "./menu.js";
+import {createContent as createAbout} from "./about.js";
 
 // DOM Manipulation
 const contentContainer = document.querySelector("#content");
